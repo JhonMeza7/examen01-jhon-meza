@@ -1,0 +1,4 @@
+1,Biblioteca Central,Calle 123,2000-01-01,true
+  1,Kotlin desde Cero,Juan Pérez,29.99,2021-06-10
+  2,Avanzado en Kotlin,Ana Gómez,49.99,2023-03-05
+2,Biblioteca Secundaria,Calle 456,2010-05-15,false
